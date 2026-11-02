@@ -1,0 +1,5 @@
+hello day 01
+created the aws account and connected ec2 with terminal
+1 hour practice in linux
+created github account and repository
+

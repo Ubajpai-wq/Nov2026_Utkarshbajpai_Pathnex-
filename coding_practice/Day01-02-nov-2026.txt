@@ -1,0 +1,11 @@
+
+coding practice 01
+
+learn about the linux basic command like 
+ls -- listing the file
+ls -l : long list of files
+ls -la: shows the hidden files with details
+chmod : gives the permisssion to files
+umask: used while creating multiple file under same permisssion
+touch:it is used to create the new empty file
+
