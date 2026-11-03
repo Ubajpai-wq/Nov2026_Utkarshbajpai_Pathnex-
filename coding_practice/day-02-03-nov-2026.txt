@@ -1,0 +1,6 @@
+study about search and replace in files and dirctories using :%s/...../replace/g in vim extenion mode
+I/O redirection using ">" and "<"
+studied about piping method of commands
+how to install packages using yum and dnf
+how to use sudo command
+how to use curl and wget and get familiar with system command like pwd whoami, etc
